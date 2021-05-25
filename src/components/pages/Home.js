@@ -1,5 +1,5 @@
 import {Component} from "react";
-import myImage from '../images/sajia.jpeg';
+import myImage from '../../images/sajia.jpeg';
 export default class Home extends Component {
     render() {
         return <>
