@@ -5,10 +5,10 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import Home from "./components/Home";
-import About from "./components/About";
-import Project from "./components/Project";
-import Contact from "./components/Contact";
+import Home from "./components/pages/Home";
+import About from "./components/pages/About";
+import Project from "./components/pages/Project";
+import Contact from "./components/pages/Contact";
 
 function App() {
   return (
