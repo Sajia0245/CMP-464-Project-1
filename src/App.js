@@ -31,7 +31,6 @@ function App() {
             </ul>
           </nav>
 
-
           <Switch>
             <Route path="/about">
               <About />
